@@ -1,3 +1,14 @@
+### Solution to the Second Programming Assignment
+
+It is basically the same source used in the example.
+
+The only modifications I did was the use of the "solve" function
+and I replaced "mean" with "inv" in the function names
+
+
+
+
+### ====================================================================
 ### Introduction
 
 This second programming assignment will require you to write an R
