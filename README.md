@@ -8,7 +8,10 @@ and I replaced "mean" with "inv" in the function names
 
 
 
-### ====================================================================
+## =========================================================
+## Original README
+## =========================================================
+
 ### Introduction
 
 This second programming assignment will require you to write an R
